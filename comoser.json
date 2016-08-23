@@ -1,0 +1,8 @@
+{
+  "name": "typo3-ext/mike1",
+  "version": "1.0.0@",
+  "dist": {
+    "type": "vcs",
+    "url": "https://github.com/mikeschiii/typo3-ext"
+  }
+}
