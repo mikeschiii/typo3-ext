@@ -3,6 +3,6 @@
   "version": "1.0.0@",
   "dist": {
     "type": "vcs",
-    "url": "https://github.com/mikeschiii/typo3-ext"
+    "url": "https://github.com/mikeschiii/typo3-ext.git"
   }
 }
